@@ -165,6 +165,30 @@ main > section{
   text-align: center;
 }
 
+/* features related style */
+.features{
+  gap: 120px;
+}
+
+#feature-icon-title{
+  border-left:5px solid #FF900E;
+  padding-left: 21px;
+}
+
+.feature-card{
+   padding: 30px;
+  box-shadow: 0 4px 30px 0 #e8e4e4;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.feature-card .feature-title{
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+ 
+}
+
 /* sponsers related style */
 .sponsers-companies{
   display: grid;
